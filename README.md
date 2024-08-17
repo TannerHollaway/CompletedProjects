@@ -1,5 +1,7 @@
 # CompletedProjects
 
+- <b>[Creating a honeynet in Azure, practising incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)
+
 - <b>[Creating an Active Directory home lab](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
 
 - <b>[Creating and using a port scanner to harden a network](https://github.com/TannerHollaway/CreatingAndUsingAPortScanner)</b>
