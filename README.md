@@ -3,8 +3,11 @@
 # Azure related projects
 
 - <b>[Creating a honeynet in Azure, practising incident response and remediation](https://github.com/TannerHollaway/AzureSentinel)
+
 - <b>[Creating insecure Virtual Machines for Azure Project](https://github.com/TannerHollaway/VirtualMachineCreation)
+
 - <b>[Practising incident response in Azure Project](https://github.com/TannerHollaway/Incident-Response)
+
 - <b>[Securing the honeynet using NIST800-53 and Microsoft Defender for Cloud recommendations](https://github.com/TannerHollaway/Becoming-NIST-80053-compliant)
 
 # Python Related projects
