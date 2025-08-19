@@ -22,8 +22,6 @@
 
 - <b>[Creating a python program to check password strength based on OWASP standards](https://github.com/TannerHollaway/OWASP-PasswordChecker)</b>
 
-- <b>[Creating and using a port scanner to harden a network](https://github.com/TannerHollaway/ActiveDirectoryLab)</b>
-
 
 # unlabled for now
 
