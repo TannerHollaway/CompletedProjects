@@ -26,7 +26,7 @@
 
 - <b>[Creating simple inbound firewall rule that allows File and Printer sharing](LINK)</b>
 
-- <b>[Creating a Group Policy Object to enforce password policy](LINK)</b>
+- <b>[Creating a Group Policy Object to enforce password policy](https://github.com/TannerHollaway/WindowsServer2022GPO)</b>
 
 
 
