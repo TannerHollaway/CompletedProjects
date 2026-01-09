@@ -22,6 +22,13 @@
 
 - <b>[Creating a python program to check password strength based on OWASP standards](https://github.com/TannerHollaway/OWASP-PasswordChecker)</b>
 
+# Windows server 2022 related projects
+
+- <b>[Creating simple inbound firewall rule that allows File and Printer sharing](LINK)</b>
+
+- <b>[Creating a Group Policy Object to enforce password policy](LINK)</b>
+
+
 
 # unlabled for now
 
