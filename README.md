@@ -24,7 +24,7 @@
 
 # Windows server 2022 related projects
 
-- <b>[Creating simple inbound firewall rule that allows File and Printer sharing](LINK)</b>
+- <b>[Creating simple inbound firewall rule that allows File and Printer sharing](https://github.com/TannerHollaway/Creating-simple-inbound-firewall-rule-that-allows-File-and-Printer-sharing)</b>
 
 - <b>[Creating a Group Policy Object to enforce password policy](https://github.com/TannerHollaway/WindowsServer2022GPO)</b>
 
